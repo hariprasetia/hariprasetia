@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hari Prasetia 👋
 
 - 🔭 I’m working as Software Engineer @ [Kisel Group] (http://kiselindonesia.com/)
 - 🌱 I’m currently learning Flutter
