@@ -1,7 +1,7 @@
-### Hi, I'm Hari Prasetia 👋
+### Hi, I'm Hari Prasetia 👋 😁
 ###### *Software Engineer*
 
-I'm passionate Software Engineer, I love learn new things and sharing knowledge to community. I'm also an artist (sketching and watercolorist) and cook at home on weekends
+I'm passionate Software Engineer, I love learn new things and sharing knowledge to community. I'm also an artist (sketching and watercolorist) and chef at home on weekends 
 
 becoming a world-class engineer is one of my goals, both on technical knowledge and engineering leadership.
 
