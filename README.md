@@ -5,8 +5,8 @@ I'm passionate Software Engineer, I love learn new things and share knowledge to
 
 becoming a world-class engineer is one of my goals, both on technical knowledge and engineering leadership.
 
-* Language: C++, Java, Python, R, PHP, Javascript
-* Framework: Spring Boot, Flask, Nodejs, Code Igniter, Shiny
+* Language: C++, Golang, Dart, Java, Python, R, PHP, Javascript
+* Framework: Spring Boot, Flask, Flutter, Nodejs, Code Igniter, Shiny
 * Database: MariaDB, Cassandra, Redis, ElasticSearch
 * Cloud Computing: Google Cloud Platform, AWS
 * CI/CD: Jenkins
