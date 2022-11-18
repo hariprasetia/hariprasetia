@@ -9,7 +9,6 @@ becoming a world-class engineer is one of my goals, both on technical knowledge 
 * Framework: Spring Boot, Flask, Flutter, NextJs, CodeIgniter, Shiny
 * Database: MariaDB, Cassandra, Redis, ElasticSearch
 * Cloud Computing: Google Cloud Platform, AWS
-* CI/CD: Jenkins
 
 ### You can also find me on
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hari-prasetia-813729153/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hariprstya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hariprasetia_)  
